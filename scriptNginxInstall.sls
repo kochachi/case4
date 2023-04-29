@@ -1,0 +1,4 @@
+include:
+    - scriptTransfer
+    - scriptInstall
+    - scriptReplace
